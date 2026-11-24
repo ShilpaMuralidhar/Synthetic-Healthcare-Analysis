@@ -1,1 +1,1 @@
-# Synthetic-Healthcare-Analysis
+# Synthetic data
