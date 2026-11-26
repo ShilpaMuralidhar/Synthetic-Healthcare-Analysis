@@ -119,7 +119,7 @@ These findings highlight the potential of synthetic data as a complementary appr
 
 # License
 
-This repository is distributed under the MIT License. See the LICENSE file for details.
+This repository is distributed under the MIT License.
 
 # Author
 
