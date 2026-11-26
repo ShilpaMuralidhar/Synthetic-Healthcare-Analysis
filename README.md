@@ -7,11 +7,13 @@ Neonatal clinical datasets are often limited by small sample sizes, severe class
 
 ## Publication
 
-This repository accompanies our published research article in
-*Artificial Intelligence in Health* (2026), 026290088.
+This repository accompanies the following published research article:
 
-**DOI:** [10.36922/AIH026290088](https://doi.org/10.36922/AIH026290088)
+**Generation of synthetic data in the prediction of necrotizing enterocolitis in preterm infants (https://doi.org/10.36922/AIH026290088)**
 
+*Artificial Intelligence in Health*, 2026, 026290088.
+
+**DOI:** 10.36922/AIH026290088
 # Research Objectives
 
 - Assess the distributional similarity between real and synthetic healthcare data.
