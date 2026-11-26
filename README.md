@@ -5,6 +5,13 @@ This repository contains the Python-based analytical framework for evaluating sy
 
 Neonatal clinical datasets are often limited by small sample sizes, severe class imbalance, and restrictions on patient-level data sharing. This project investigates the potential of synthetic data to address these challenges while evaluating its impact on downstream predictive performance and patient privacy.
 
+## Publication
+
+This repository accompanies our published research article in
+*Artificial Intelligence in Health* (2026), 026290088.
+
+**DOI:** [10.36922/AIH026290088](https://doi.org/10.36922/AIH026290088)
+
 # Research Objectives
 
 - Assess the distributional similarity between real and synthetic healthcare data.
