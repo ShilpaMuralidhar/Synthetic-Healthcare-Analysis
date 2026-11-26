@@ -8,13 +8,9 @@ Neonatal clinical datasets are often limited by small sample sizes, severe class
 # Research Objectives
 
 Assess the distributional similarity between real and synthetic healthcare data.
-
 Evaluate synthetic data augmentation for NEC prediction.
-
 Compare traditional oversampling and generative modeling approaches.
-
 Assess potential patient-level and attribute-level disclosure risks.
-
 Investigate the trade-off between synthetic data utility and privacy.
 
 # Methodology
